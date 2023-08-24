@@ -2,7 +2,7 @@
     "houses": [
       { "id": 1,
        "address": "Family Home",
-       "description":"pride of ownership duplex located in the heart of sultan street, rafah. The duplex features two spacious full floor flats situated on a 2, The property measures approximately 2, 576 square feet of rentable area.",
+       "description":"pride of ownership duplex located in the heart of sultan street, rafah. The duplex features two spacious full floor flats situated on a 2.",
        "bedroom":3,
        "bathrooms":2,
        "price":200,
@@ -47,7 +47,7 @@
        },
        { "id": 6,
        "address": "a four-story house" ,
-       "description":"Luxurious 4-bedroom home with 4 bathrooms. Offers a spacious backyard, modern amenities, and scenic views. Ideal for a stylish living experience.",
+       "description":"Luxurious 4-bedroom home with 4 bathrooms. Offers a spacious backyard, modern amenities, and scenic views. Ideal stylish living experience.",
        "bedroom":4,
        "bathrooms":4,
        "price":100,
