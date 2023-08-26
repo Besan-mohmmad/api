@@ -2,7 +2,7 @@
     "houses": [
       { "id": 1,
        "address": "Family Home",
-       "description":"pride of ownership duplex located in the heart of sultan street, rafah. The duplex features two spacious full floor flats situated on a 2bathrooms.",
+       "description":"pride of ownership duplex located in the heart of sultan street, rafah. The duplex features two spacious full floor flats situated on a 2 bathrooms.",
        "bedroom":3,
        "bathrooms":2,
        "price":200,
