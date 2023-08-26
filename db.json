@@ -65,7 +65,7 @@
        },
        { "id": 8,
        "address": "Bali'S Exotic Indonesian" ,
-       "description":""A three-bedroom house with a living room (and two bathrooms and a kitchen) is available. It overlooks 3 streets, with the street length having 3 branches.  ",
+       "description":"A three-bedroom house with a living room (and two bathrooms and a kitchen) is available. It overlooks 3 streets, with the street length having 3 branches.  ",
        "bedroom":3,
        "bathrooms":2,
        "price":350,
