@@ -90,5 +90,11 @@
        "city": "Rafah",
        "image":"https://www12.0zz0.com/2023/08/24/07/328654504.jpg"
        }
-    ]
+    ],
+
+
+
+     "users": [
+    { "id": 1, "username": "Bisan", "email": "bisan@gmail.com" ,"password": "123456", "mobile": "0597291644","image": "https://www6.0zz0.com/2023/08/30/17/946864484.jpg"}
+  ],
 }
